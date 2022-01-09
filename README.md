@@ -3,7 +3,7 @@ I'm Ethan, a 3rd-year CS student @ UC Irvine. I am aiming to become a ***Full-St
 I come from Guangzhou, China. I am able to speak English, Mandarin and Cantonese.
 
 <h2> Connect with me  </h2>
-<a href="www.linkedin.com/in/yuyang-deng-4614641a9/" target="_blank">
+<a href="https://www.linkedin.com/in/yuyang-deng-4614641a9/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
