@@ -7,27 +7,13 @@ I come from Guangzhou, China. I am able to speak English, Mandarin and Cantonese
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakedyy)](https://github.com/fakedyy/github-readme-stats)
+<!-- [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakedyy)](https://github.com/fakedyy/github-readme-stats) -->
 
 <!-- Here is my [LinkedIn](www.linkedin.com/in/yuyang-deng-4614641a9/) -->
 
-<!-- <h2> Github Stats </h2> 
-<a href="https://github.com/fakedyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<h2> Github Stats </h2> 
+<a href="https://github.com/fakedyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakedyy&layout=compact" /></a>
 <br/>
 <br/>
-<br/> -->
+<br/>
 
-<!--
-**fakedyy/fakedyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
