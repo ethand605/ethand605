@@ -4,16 +4,16 @@ I come from Guangzhou, China. I am able to speak English, Mandarin and Cantonese
 
 <h2> Connect with me  </h2>
 <a href="https://www.linkedin.com/in/yuyang-deng-4614641a9/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <!-- Here is my [LinkedIn](www.linkedin.com/in/yuyang-deng-4614641a9/) -->
 
-<h2> Github Stats </h2> 
+<!-- <h2> Github Stats </h2> 
 <a href="https://github.com/fakedyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
 <br/>
 <br/>
-<br/>
+<br/> -->
 
 <!--
 **fakedyy/fakedyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
