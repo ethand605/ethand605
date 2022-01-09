@@ -1,5 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 I'm Ethan, a 3rd-year CS student @ UC Irvine. I am aiming to become a ***Full-Stack Develoepr***.
+I come from Guangzhou, China. I am able to speak English, Mandarin and Cantonese.
 
 <h2> Connect with me  </h2>
 <a href="www.linkedin.com/in/yuyang-deng-4614641a9/" target="_blank">
