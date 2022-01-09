@@ -1,7 +1,19 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 I'm Ethan, a 3rd-year CS student @ UC Irvine. I am aiming to become a ***Full-Stack Develoepr***.
 
+<h2> Connect with me  </h2>
+<a href="www.linkedin.com/in/yuyang-deng-4614641a9/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
 Here is my [LinkedIn](www.linkedin.com/in/yuyang-deng-4614641a9/)
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<br/>
+<br/>
+<br/>
+
 <!--
 **fakedyy/fakedyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
